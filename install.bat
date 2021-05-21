@@ -1,0 +1,1 @@
+powershell start -verb runas Server install
